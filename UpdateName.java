@@ -1,5 +1,5 @@
 
-//Opps to update name;
+//Opps to update name
 
 import java.util.Scanner;
 
@@ -25,7 +25,7 @@ class Employee{
     }
 }
 
-public class nameUpdate{
+public class UpdateName{
     public static void main(String[] args) {
     Employee deepak = new Employee();
         deepak.name = "  Deepak Ghimire";
